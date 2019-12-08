@@ -1,0 +1,59 @@
+ID,Mountain Peak,Mountain Range,Elevation_ft,fourteener,Prominence_ft,Isolation_mi,Lat,Long,Standard Route,Distance_mi,Elevation Gain_ft,Difficulty,Traffic Low,Traffic High,photo
+1,Mount Elbert,Sawatch Range,14440,Y,9093,670,39.1178,-106.4454,Northeast Ridge ,9.5,4700,Class 1,20000,25000,https://www.14ers.com/photos/mtelbert/peakphotos/large/201207_Elbert01.jpg
+2,Mount Massive,Sawatch Range,14428,Y,1961,5.06,39.1875,-106.4757,East Slopes ,14.5,4500,Class 2,7000,10000,https://www.14ers.com/photos/mtmassive/peakphotos/large/200508_Massive01.jpg
+3,Mount Harvard,Sawatch Range,14421,Y,2360,14.93,38.9244,-106.3207,South Slopes ,14,4600,Class 2,5000,7000,https://www.14ers.com/photos/harvardgroup/peakphotos/large/200706_Harv01.jpg
+4,Blanca Peak,Sangre de Cristo Range,14351,Y,5326,103.4,37.5775,-105.4856,Northwest Ridge ,17,6500,Hard Class 2,1000,3000,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Blanca01.jpg
+5,La Plata Peak,Sawatch Range,14343,Y,1836,6.28,39.0294,-106.4729,Northwest Ridge ,9.25,4500,Class 2,5000,7000,https://www.14ers.com/photos/laplatapeak/peakphotos/large/201205_Lap01.jpg
+6,Uncompahgre Peak,San Juan Mountains,14321,Y,4277,85.1,38.0717,-107.4621,South Ridge ,7.5,3000,Class 2,3000,5000,https://www.14ers.com/photos/uncompahgrepeak/peakphotos/large/201710_Unco01.jpg
+7,Crestone Peak,Sangre de Cristo Range,14300,Y,4554,27.4,37.9669,-105.5855,South Face ,14,5700,Class 3,1000,3000,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Crestones01.jpg
+8,Mount Lincoln,Mosquito Range,14293,Y,3862,22.6,39.3515,-106.1116,West Ridge ,6,2600,Class 2,15000,20000,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200904_LinBro01.jpg
+9,Castle Peak,Elk Mountains,14279,Y,2365,20.9,39.0097,-106.8614,Northeast Ridge ,13.5,4600,Hard Class 2,1000,3000,https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast04.jpg
+10,Grays Peak,Front Range,14278,Y,2770,25,39.6339,-105.8176,North Slopes ,8,3000,Class 1,25000,30000,https://www.14ers.com/photos/graystorreys/peakphotos/large/201211_Grays01.jpg
+11,Mount Antero,Sawatch Range,14276,Y,2503,17.75,38.6741,-106.2462,West Slopes ,16,5200,Class 2,3000,5000,https://www.14ers.com/photos/mtantero/peakphotos/large/201205_Ant01.jpg
+12,Torreys Peak,Front Range,14275,Y,560,0.65,39.6428,-105.8212,South Slopes ,8,3000,Class 2,25000,30000,https://www.14ers.com/photos/graystorreys/peakphotos/large/201004_Grays01.jpg
+13,Quandary Peak,Mosquito Range,14271,Y,1125,3.16,39.3973,-106.1064,East Ridge ,6.75,3450,Class 1,20000,25000,https://www.14ers.com/photos/quandarypeak/peakphotos/large/200701_Quan02.jpg
+14,Mount Evans,Front Range,14271,Y,2770,9.79,39.5883,-105.6438,West Ridge via Mount Spalding ,5,2000,Class 2,15000,20000,https://www.14ers.com/photos/evansgroup/peakphotos/large/200907_Evans01.jpg
+15,Longs Peak,Front Range,14259,Y,2940,43.6,40.255,-105.6151,Keyhole Route ,14.5,5100,Class 3,15000,20000,https://www.14ers.com/photos/longspeak/peakphotos/large/200508_Longs01.jpg
+16,Mount Wilson,San Juan Mountains,14252,Y,4024,33.1,37.8391,-107.9916,North Slopes ,16,5100,Class 4,1000,3000,https://www.14ers.com/photos/wilsongroup/peakphotos/large/200803_Wils01.jpg
+17,Mount Shavano,Sawatch Range,14231,Y,1619,3.78,38.6192,-106.2393,East Slopes ,9,4600,Class 2,5000,7000,https://www.14ers.com/photos/shavanogroup/peakphotos/large/200804_Shav01.jpg
+18,Mount Princeton,Sawatch Range,14204,Y,2177,5.19,38.7492,-106.2424,East Slopes ,6.5,3200,Class 2,5000,7000,https://www.14ers.com/photos/mtprinceton/peakphotos/large/200904_Prin01.jpg
+19,Mount Belford,Sawatch Range,14203,Y,1337,3.3,38.9607,-106.3607,Northwest Ridge ,8,4500,Class 2,5000,7000,https://www.14ers.com/photos/belfordgroup/peakphotos/large/201204_Belf01.jpg
+20,Crestone Needle,Sangre de Cristo Range,14203,Y,457,0.45,37.9647,-105.5766,South Face ,12,4400,Class 3,1000,3000,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201104_CNeed01.jpg
+21,Mount Yale,Sawatch Range,14200,Y,1896,5.55,38.8442,-106.3138,Southwest Slopes ,9.5,4300,Class 2,5000,7000,https://www.14ers.com/photos/mtyale/peakphotos/large/201004_Yale02.jpg
+22,Mount Bross,Mosquito Range,14178,Y,312,0.99,39.3354,-106.1077,West Slopes ,3.25,2250,Class 2,15000,20000,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Bross01.jpg
+23,Kit Carson Mountain,Sangre de Cristo Range,14171,Y,1025,1.27,37.9797,-105.6026,Via Challenger Point ,14.5,6250,Easy Class 3,1000,3000,https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/201107_kitcar02.jpg
+24,Maroon Peak,Elk Mountains,14163,Y,2336,8.06,39.0708,-106.989,South ridge ,11.5,4800,Class 3,1000,3000,https://www.14ers.com/photos/maroongroup/peakphotos/large/201807_Maro02.jpg
+25,Tabeguache Peak,Sawatch Range,14162,Y,455,0.75,38.6255,-106.2509,Via Mount Shavano ,11,5600,Class 2,5000,7000,https://www.14ers.com/photos/shavanogroup/peakphotos/large/201005_Tabe01.jpg
+26,Mount Oxford (Colorado),Sawatch Range,14160,Y,653,1.22,38.9648,-106.3388,Via Mount Belford ,11,5800,Class 2,5000,7000,https://www.14ers.com/photos/belfordgroup/peakphotos/large/200508_Oxfo01.jpg
+27,Mount Sneffels,San Juan Mountains,14158,Y,3050,15.73,38.0038,-107.7923,South Slopes ,6,2900,Easy Class 3,3000,5000,https://www.14ers.com/photos/mtsneffels/peakphotos/large/200808_Snef23.jpg
+28,Mount Democrat,Mosquito Range,14155,Y,768,1.27,39.3396,-106.14,East Slope ,4,2150,Class 2,15000,20000,https://www.14ers.com/photos/lincolngroup/peakphotos/large/201706_Demo01.jpg
+29,Capitol Peak,Elk Mountains,14137,Y,1750,7.44,39.1503,-107.0829,Northeast Ridge ,17,5300,Class 4,1000,3000,https://www.14ers.com/photos/capitolpeak/peakphotos/large/200807_Capi02.jpg
+30,Pikes Peak,Front Range,14115,Y,5530,60.8,38.8405,-105.0442,East Slopes ,26,7500,Class 1,15000,20000,https://www.14ers.com/photos/pikespeak/peakphotos/large/201506_Pikes01.jpg
+31,Snowmass Mountain,Elk Mountains,14099,Y,1152,2.34,39.1188,-107.0665,East Slopes ,22,5800,Hard Class 3,1000,3000,https://www.14ers.com/photos/snowmassmtn/peakphotos/large/200907_Snow01.jpg
+32,Windom Peak,San Juan Mountains,14093,Y,2187,26.4,37.6212,-107.5919,West Ridge ,17,6000,Hard Class 2,3000,5000,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Wind01.jpg
+33,Mount Eolus,San Juan Mountains,14090,Y,1024,1.69,37.6218,-107.6227,Northeast Ridge ,17,6100,Class 3,3000,5000,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg
+34,Challenger Point,Sangre de Cristo Range,14087,Y,301,0.22,37.9804,-105.6066,North Slope ,12.5,5400,Hard Class 2,1000,3000,https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/200707_chal01.jpg
+35,Mount Columbia,Sawatch Range,14077,Y,893,1.9,38.9039,-106.2975,West Slopes ,11.5,4250,Class 2,3000,5000,https://www.14ers.com/photos/harvardgroup/peakphotos/large/201005_Colu01.jpg
+36,Missouri Mountain,Sawatch Range,14074,Y,847,1.31,38.9476,-106.3785,Northwest Ridge ,10.5,4500,Class 2,3000,5000,https://www.14ers.com/photos/belfordgroup/peakphotos/large/200706_Miss01.jpg
+37,Humboldt Peak,Sangre de Cristo Range,14070,Y,1204,1.41,37.9762,-105.5552,West Ridge ,11,4200,Class 2,1000,3000,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Humb01.jpg
+38,Mount Bierstadt,Front Range,14065,Y,720,1.12,39.5826,-105.6688,West Slopes ,7,2850,Class 2,35000,40000,https://www.14ers.com/photos/evansgroup/peakphotos/large/200607_Bier01.jpg
+39,Sunlight Peak,San Juan Mountains,14065,Y,399,0.48,37.6274,-107.5959,South Face ,17,6000,Class 4,3000,5000,https://www.14ers.com/photos/windomgroup/peakphotos/large/200708_Sunl01.jpg
+40,Handies Peak,San Juan Mountains,14058,Y,1908,11.18,37.913,-107.5044,Southwest Slopes ,5.75,2500,Class 1,5000,7000,https://www.14ers.com/photos/handiespeak/peakphotos/large/200707_Hand03.jpg
+41,Culebra Peak,Sangre de Cristo Range,14053,Y,4827,35.5,37.1224,-105.1858,Northwest Ridge ,5,2700,Class 2,1000,3000,https://www.14ers.com/photos/culebrapeak/peakphotos/large/201508_Cule01.jpg
+42,Ellingwood Point,Sangre de Cristo Range,14048,Y,342,0.52,37.5826,-105.4927,South Face ,17,6200,Hard Class 2,1000,3000,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Elli01.jpg
+43,Mount Lindsey,Sangre de Cristo Range,14048,Y,1542,2.26,37.5837,-105.4449,Northwest Gully ,8.25,3500,Easy Class 3,1000,3000,https://www.14ers.com/photos/mtlindsey/peakphotos/large/200606_Lind01.jpg
+44,Little Bear Peak,Sangre de Cristo Range,14043,Y,377,0.98,37.5666,-105.4972,West Ridge and Southwest Face ,14,6200,Class 4,1000,3000,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Litt01.jpg
+45,Mount Sherman,Mosquito Range,14043,Y,850,8.06,39.225,-106.1699,Southwest Ridge ,5.25,2100,Class 2,20000,25000,https://www.14ers.com/photos/mtsherman/peakphotos/large/201207_Sher02.jpg
+46,Redcloud Peak,San Juan Mountains,14041,Y,1436,4.91,37.941,-107.4219,Northeast Ridge ,9,3700,Class 2,3000,5000,https://www.14ers.com/photos/redcloudgroup/peakphotos/large/201610_Redc02.jpg
+47,Pyramid Peak,Elk Mountains,14025,Y,1638,2.09,39.0717,-106.9502,Northeast Ridge ,8.25,4500,Class 4,1000,3000,https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_Pyra01.jpg
+48,Wilson Peak,San Juan Mountains,14023,Y,857,1.51,37.8603,-107.9847,Southwest Ridge ,10,5000,Class 3,1000,3000,https://www.14ers.com/photos/wilsongroup/peakphotos/large/200604_Wils01.jpg
+49,San Luis Peak,San Juan Mountains,14022,Y,3113,27,37.9868,-106.9313,Northeast Ridge ,13.5,3600,Class 1,3000,5000,https://www.14ers.com/photos/sanluispeak/peakphotos/large/201807_San01.jpg
+50,Wetterhorn Peak,San Juan Mountains,14021,Y,1635,2.77,38.0607,-107.5109,Southeast Ridge ,7,3300,Class 3,3000,5000,https://www.14ers.com/photos/wetterhornpeak/peakphotos/large/201106_Wett01.jpg
+51,Mount of the Holy Cross,Sawatch Range,14011,Y,2113,18.52,39.4668,-106.4817,North Ridge ,12,5600,Class 2,3000,5000,https://www.14ers.com/photos/mtholycross/peakphotos/large/200706_Holy01.jpg
+52,Huron Peak,Sawatch Range,14010,Y,1423,3.21,38.9455,-106.4381,Northwest Slopes ,6.5,3500,Class 2,5000,7000,https://www.14ers.com/photos/huronpeak/peakphotos/large/201607_Huro01.jpg
+53,Sunshine Peak,San Juan Mountains,14007,Y,501,1.27,37.9228,-107.4256,Via Redcloud Peak ,12.25,4800,Class 2,3000,5000,https://www.14ers.com/photos/redcloudgroup/peakphotos/large/200606_Sun01.jpg
+54,Mt. Cameron,Mosquito Range,14238,N,158,0.48,39.347165,-106.118501,West Ridge ,4.75,2250,Class 2,15000,20000,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Linc01.jpg
+55,El Diente Peak,San Juan Mountains,14159,N,239,0.75,37.839383,-108.005335,North Slopes ,15,5000,Class 3,1000,3000,https://www.14ers.com/photos/wilsongroup/peakphotos/large/201007_ElD01.jpg
+56,Conundrum Peak,Elk Mountains,14060,N,280,0.4,39.015682,-106.862749,Via Castle Peak ,14.5,4850,Hard Class 2,1000,3000,https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast01.jpg
+57,North Eolus,San Juan Mountains,14039,N,199,0.25,37.625192,-107.621187,South Ridge ,16.75,6000,Class 3,3000,5000,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg
+58,North Maroon Peak,Elk Mountains,14014,N,254,0.37,39.076007,-106.987058,Northeast Ridge ,9.25,4500,Class 4,1000,3000,https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_NMar01.jpg
