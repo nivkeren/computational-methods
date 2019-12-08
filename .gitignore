@@ -1,3 +1,6 @@
 venv/*
 .idea/*
 .ipynb_checkpoints/*
+class-work/answers/.ipynb_checkpoints/
+class-work/.ipynb_checkpoints/*
+class-work/answers/__pycache__/
