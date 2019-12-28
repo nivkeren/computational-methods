@@ -1,4 +1,4 @@
-# computational-methods for earth seince
+# computational-methods for earth science
 computational-methods course notebooks
 
 The course is teaching how to solve basic computational problems in the feild of earth-seince using Python. 
