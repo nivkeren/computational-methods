@@ -1,10 +1,12 @@
-# computational-methods for earth seince
+# computational-methods for earth science
 computational-methods course notebooks
+
 The course is teaching how to solve basic computational problems in the feild of earth-seince using Python. 
+
 Basic functional programing ang graphic reprenstation.
 * Python version:3.7
 
-Subjects:
+### Subjects:
 1. Intro to python
 2. Numpy and Arrays
 3. Plotting
@@ -15,10 +17,10 @@ Subjects:
 9. Numerical differentiation & Interpolation
 
 
-* Depndencies:
-* * numpy
-* * scipy
-* * matplotlib
-* * imageio
-* * pandas
-* * sckitlearn
+### Dependencies:
+* numpy
+* scipy
+* matplotlib
+* imageio
+* pandas
+* sckitlearn
